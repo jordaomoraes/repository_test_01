@@ -1,0 +1,8 @@
+{
+  "name": "repository_test_01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jordaomoraes/repository_test_01.git",
+  "author": "Guilherme Jordão <62813340+jordaomoraes@users.noreply.github.com>",
+  "license": "MIT"
+}
