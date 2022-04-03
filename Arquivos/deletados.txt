@@ -1,0 +1,1 @@
+automations/Automation1.js services/teste1.js services/teste2.js
